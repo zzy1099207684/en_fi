@@ -117,7 +117,3 @@ Open your browser and visit `http://127.0.0.1:5000/en_fi` to use the translation
 - **Python Version**
 
   - Use Python 3.7 or newer.
-
-## Feedback and Issues
-
-For any issues or feedback, please contact the developer or submit an issue.
