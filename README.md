@@ -1,3 +1,8 @@
+# Main Page
+![image](https://github.com/user-attachments/assets/d020a83a-f0e1-42fd-97b5-da1ff02a5037)
+
+
+
 # English-to-Finnish Translator
 
 This project is an English-to-Finnish translation Demo based on Flask and Hugging Face Transformers. Users can input English text via a simple web interface and get the corresponding Finnish translation.
